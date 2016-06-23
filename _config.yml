@@ -1,7 +1,7 @@
 # Site settings
 title: Clean Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: contato@ifundamental.com.br
 copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
@@ -9,7 +9,7 @@ url: "http://blog.millennial.com.br"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email_username:  contato@ifundamental.com.br
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
