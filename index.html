@@ -11,12 +11,14 @@ description: "Informações úteis para todos"
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
+            {% include minutes-to-read.html %}
+        <span class="reading-time" title="Tempo estimado de leitura">- {{ minutesText }}</span>
         </h3>
         {% endif %}
     </a>
     <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
-<hr>
+
 {% endfor %}
 
 <!-- Pager -->
