@@ -1,14 +1,14 @@
 # Site settings
-title: Millennial's
+title: MILLENNIAL'S
 header-img: img/home-bg.jpg
 email: contato@ifundamental.com.br
 copyright_name: Fundamental Inc.
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://blog.millennial.com.br"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username:
+github_username:
+facebook_username: bemillennials
 email_username:  contato@ifundamental.com.br
 
 # Google Analytics
