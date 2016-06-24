@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Conscienciologia"
-date:       2014-09-18 12:00:00
+date:       2016-06-24 17:50:00
 author:     "Henrique Elias"
 header-img: "img/post-bg-05.jpg"
 ---
