@@ -8,9 +8,16 @@ header-img: "img/post-bg-05.jpg"
 ---
 
 
-<p>A conscienciologia é uma ciência que estuda a consciência, o individuo de forma integral, tendo como base o paradigma consciencial, levando em consideração múltiplas vidas (Multiexistencialidade), múltiplas dimensões (Multidimensionalidade), que a base do universo é a energia (Bionergia), toda verdade é relativa (Verpon), a ética transcendente (Cosmoética) e o princípio da descrença “Não acredite em nada, tenha suas próprias experiências pessoais.”</p><br>   
+<p>A conscienciologia é uma ciência que estuda a consciência (Indivíduo) de forma integral, com foco na autopesquisa, tendo como base o paradigma consciencial que leva em consideração múltiplas vidas (Serialidade), múltiplas dimensões (Multidimensionalidade), que todo o universo é energia (Bionergética), toda verdade é relativa (Verpon), a ética transcendente (Cosmoética), a interação sadia e o respeito (Universalismo) e o princípio da descrença “Não acredite em nada, tenha suas próprias experiências pessoais.”</p><br>   
 
-<p>Esta ciência foi proposta por Waldo Vieira (1932-2015) autor de diversos livros, tratados e verbetes sobre o tema. Recomendo para os interessados lerem o livro introdutório, porém com idéias avançadas “O que é a conscienciologia.” (1994) e “Nossa evolução”(2010) além deste título o interessado encontrará diversos outros no site da editares, alguns deles é possível fazer o download gratuitamente.</p><br>
+<p>Esta ciência foi proposta por Waldo Vieira (1932-2015) autor de diversos livros, tratados e verbetes sobre o tema.
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/professor-waldo-vieira-1.jpg" alt="Waldo vieira.jpg">
+</a>
+
+
+Recomendo para os interessados lerem o livro introdutório, porém com idéias avançadas “O que é a conscienciologia.” (1994) e “Nossa evolução”(2010) além deste título o interessado encontrará diversos outros no site da editares, alguns deles é possível fazer o download gratuitamente.</p><br>
 
 <p>A conscienciologia atrai diversas personalidades de diversas regiões e áreas de atuação, é possível encontrar pessoas com o mais alto grau de escolaridade e outras que não se dedicaram ao estudo formal trabalhando em harmonia com objetivo de tornar o  universo um lugar melhor para todos.</p>
 
