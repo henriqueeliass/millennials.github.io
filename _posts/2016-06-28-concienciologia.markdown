@@ -27,7 +27,7 @@ header-img: "img/post-bg-05.jpg"
 <p>A conscienciologia atrai diversas personalidades de diversas regiões e áreas de atuação, é possível encontrar pessoas com o mais alto grau de escolaridade e outras que não se dedicaram ao estudo formal trabalhando em harmonia com objetivo de tornar o  universo um lugar melhor para todos.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/projeciologia.jpg" alt="Projeciologia - Waldo Vieira">
+    <img src="{{ site.baseurl }}/img/Projeciologia.jpg" alt="Projeciologia - Waldo Vieira">
 </a>
 
 <p>Reconhecido internacionalmente como o mais importante e completo tratado científico sobre a experiência fora do corpo humano, a obra fundamenta a ciência Projeciologia, sendo resultado de mais de 3 décadas de pesquisas do médico e pesquisador Waldo Vieira. Fonte: IIPC</p>
