@@ -8,7 +8,7 @@ header-img: "img/post-bg-05.jpg"
 ---
 
 
-<p>A conscienciologia é uma ciência que estuda a consciência (Indivíduo) de forma integral, com foco na autopesquisa, tendo como base o paradigma consciencial que leva em consideração múltiplas vidas (Serialidade), múltiplas dimensões (Multidimensionalidade), que todo o universo é energia (Bionergética), toda verdade é relativa (Verpon), a ética transcendente (Cosmoética), a interação sadia e o respeito (Universalismo) e o princípio da descrença “Não acredite em nada, tenha suas próprias experiências pessoais.”</p>
+<p>A conscienciologia é uma ciência que estuda a consciência (indivíduo) de forma integral, com foco na autopesquisa, tendo como base o paradigma consciencial que leva em consideração múltiplas vidas (serialidade), múltiplas dimensões (multidimensionalidade), que todo o universo é energia (bionergética), toda verdade é relativa (verpon), a ética transcendente (cosmoética), a interação sadia e o respeito (universalismo) e o princípio da descrença “Não acredite em nada, tenha suas próprias experiências pessoais.”</p>
 
 <p>Esta ciência foi proposta por Waldo Vieira (1932-2015) autor de diversos livros, tratados e verbetes sobre o tema.</p>
 
