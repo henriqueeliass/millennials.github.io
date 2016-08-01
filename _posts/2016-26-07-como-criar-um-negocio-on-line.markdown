@@ -57,4 +57,6 @@ Você pode criar usando uma ferramenta gratuita ou baixar um programa para edita
 
 <h3>Hospedagem</h3>
 
-<p>A hospedagem é onde seu site ficará armazenado. Existe hoje um número significativo de  empresas que podem lidar com suas necessidades para armazenar seu site em um servidor na nuvem e maioria deles custa alguns reais por mês. Você pode tentar um provedor gratuito se você estiver com poucos recursos porém a qualidade dos serviços será menor.</p
+<p>A hospedagem é onde seu site ficará armazenado. Existe hoje um número significativo de  empresas que podem lidar com suas necessidades para armazenar seu site em um servidor na nuvem e maioria deles custa alguns reais por mês. Você pode tentar um provedor gratuito se você estiver com poucos recursos porém a qualidade dos serviços será menor.</p>
+
+Obrigado e até a próxima!
