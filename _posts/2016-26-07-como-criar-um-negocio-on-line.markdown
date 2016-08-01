@@ -33,17 +33,15 @@ header-img: "img/post-bg-03.jpg"
 
 <h3>Conteúdo</h3>
 
-Acredito sero conteúdo a parte mais importante do seu negócio. Antes de ter um site é necessário pensar no que será compartilhado e quem é seu cliente. Você terá uma lista de serviços ou produtos? Parcerias? Página de contato? Vai ter um blog? Formulário de cadastro? Perguntas frequentes? Você tem que pensar sobre o público que quer atingir e que tipo de conteúdo tem que criar. Por exemplo, se você é um arquiteto e tiver um portifolio o interessante é compartilhar em uma página com o título portifolio juntamente com as imagens dos seus projetos e a descrição, com isso os possíveis clientes já vão ter uma noção do seu trabalho. Diga a seus usuários quem você é. Crie uma página sobre, e escreva algumas palavras sobre seu negócio.
+Acredito ser o conteúdo a parte mais importante do seu negócio. Antes de ter um site é necessário pensar no que será compartilhado e quem é seu cliente. Você terá uma lista de serviços ou produtos? Parcerias? Página de contato? Vai ter um blog? Formulário de cadastro? Perguntas frequentes? Você tem que pensar sobre o público que quer atingir e que tipo de conteúdo tem que criar. Por exemplo, se você é um arquiteto e tiver um portifolio o interessante é compartilhar em uma página com o título portifolio juntamente com as imagens dos seus projetos e a descrição, com isso os possíveis clientes já vão ter uma noção do seu trabalho. Diga a seus usuários quem você é, crie uma página sobre e escreva algumas palavras sobre seu negócio.
 
 <h3>Domínio</h3>
 
-O domínio é o endereço da sua empresa na internet, www.suaempresa.com.br, contato@suaempresa.com.br. Em algumas hospedagens quando você contrata um serviço de hospedagem é possível ganhar um domínio por 1 ano grátis porém se esse não for o caso da sua hospedagem você terá que comprá-lo separadamente. Isso é algo que não pode ser feito gratuitamente. Os nomes de domínio não custam muito, em torno de R$ 30 por ano, realmente vale a pena ter um domínio próprio para o seu negócio pois isso dara mais credibilidade e profissionalismo.
+O domínio é o endereço da sua empresa na internet, www.suaempresa.com.br, contato@suaempresa.com.br. Em algumas hospedagens quando você contrata um serviço de hospedagem é possível ganhar um domínio por 1 ano grátis porém se esse não for o caso da sua hospedagem você terá que comprá-lo separadamente. Isso é algo que não pode ser feito gratuitamente. Os nomes de domínio não custam muito, em torno de R$ 30,00 por ano, realmente vale a pena ter um domínio próprio para o seu negócio pois isso dara mais credibilidade e profissionalismo.
 
 Nota: No caso de você contratar o seu nome de domínio de uma fonte diferente do que a sua hospedagem você terá de configurar o DNS do registro para sua hospedagem e isso pode exigir um pouco de conhecimento técnico. A sua empresa de hospedagem não fará por você.
 
 <h3>Web Designer</h3>
-
-Seu site está instalado e funcionando, mas não está profissional? Agora você deve procurar temas para download através da Internet. WordPress tem um monte de temas criados por ele, você apenas tem que escolher. Uma boa fonte é o diretório do tema WordPress, onde pode encontrar temas grátis para download.
 
 Se você tem noção de web design e quer fazer tudo sozinho, você pode projetar o site você mesmo. Você pode ver tutoriais web relacionadas e fazer tudo sozinho. Caso você prefirir que alguém faça por você existem diversos profissionais e empresas que podem ajudar a estruturar seu negócio na internet. Um fator que você não deve abrir mão é de que seu site seja acessível de qualquer dispositivo.
 
@@ -53,10 +51,10 @@ Se você tem noção de web design e quer fazer tudo sozinho, você pode projeta
 
 <h3>Logotipo</h3>
 
-Você pode criar usando uma ferramenta gratuita ou baixar um programa para editar imagens e criar seu logotipo. Normalmente os programas usados são Adobe Photoshop e Illustrator. Se você não tem idéia de como usar estas ferramentas você pode aprender por meio de tutoriais, contratar um designer ou até mesmo criar em algum site de criação de logotipos.
+Você pode criar usando uma ferramenta gratuita ou baixar um programa para editar imagens e criar seu logotipo, os programas usados por profissionais são o Adobe Photoshop e Illustrator. Se você não tem idéia de como usar estas ferramentas você pode aprender por meio de tutoriais, contratar um designer ou até mesmo criar em algum site de criação de logotipos.
 
 <h3>Hospedagem</h3>
 
 <p>A hospedagem é onde seu site ficará armazenado. Existe hoje um número significativo de  empresas que podem lidar com suas necessidades para armazenar seu site em um servidor na nuvem e maioria deles custa alguns reais por mês. Você pode tentar um provedor gratuito se você estiver com poucos recursos porém a qualidade dos serviços será menor.</p>
 
-Obrigado e até a próxima!
+Por enquanto é isso. Obrigado e até a próxima!
