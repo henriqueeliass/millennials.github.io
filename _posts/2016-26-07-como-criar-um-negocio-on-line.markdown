@@ -37,7 +37,7 @@ Acredito ser o conteúdo a parte mais importante do seu negócio. Antes de ter u
 
 <h3>Domínio</h3>
 
-O domínio é o endereço da sua empresa na internet, www.suaempresa.com.br, contato@suaempresa.com.br. Em algumas hospedagens quando você contrata um serviço de hospedagem é possível ganhar um domínio por 1 ano grátis porém se esse não for o caso da sua hospedagem você terá que comprá-lo separadamente. Isso é algo que não pode ser feito gratuitamente. Os nomes de domínio não custam muito, em torno de R$ 30,00 por ano, realmente vale a pena ter um domínio próprio para o seu negócio pois isso dara mais credibilidade e profissionalismo.
+O domínio é o endereço da sua empresa na internet, www.suaempresa.com.br, contato@suaempresa.com.br. Em algumas hospedagens quando você contrata um serviço de hospedagem é possível ganhar um domínio por 1 ano grátis porém se esse não for o caso da sua hospedagem você terá que comprá-lo separadamente. Isso é algo que não pode ser feito gratuitamente. Os nomes de domínio não custam muito, em torno de R$ 30,00 por ano, realmente vale a pena ter um domínio próprio para o seu negócio pois com isso irá dar mais credibilidade, profissionalismo e será mais fácil de encontrar seu negócio na web.
 
 Nota: No caso de você contratar o seu nome de domínio de uma fonte diferente do que a sua hospedagem você terá de configurar o DNS do registro para sua hospedagem e isso pode exigir um pouco de conhecimento técnico. A sua empresa de hospedagem não fará por você.
 
