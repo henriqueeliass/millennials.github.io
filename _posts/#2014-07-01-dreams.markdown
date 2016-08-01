@@ -6,37 +6,40 @@ author:     "Start Bootstrap"
 header-img: "img/post-bg-02.jpg"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<h3>CMS</h3>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+Agora que você tem seu domínio e um servidor configurado, você tem que pensar sobre o seu site. O mais fácil e também a maneira mais rápida para configurar seu novo site é usar um CMS. CMS significa Sistema de Gestão de Conteúdo, e há muitos deles na Internet. Estes sistemas são todos livres para usar, então tudo que você tem a fazer é escolher o caminho certo para você, e começar a usá-lo. Aqui estão alguns dos mais conhecidos para escolher.
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+WordPress<br>
+Joomla!<br>
+Drupal<br>
+Tumblr (plataforma de hospedagem, não CMS)<br>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+Eu prefiro usar WordPress, uma vez que é definitivamente o mais versátil de todos. Na verdade, se você se registrar no wordpress.com, você pode se inscrever para um serviço gratuito de hospedagem. Eles dão 3 GB de espaço, um domínio ".wordpress.com" subdomínio, e algumas opções de personalização básicas grátis! Isso significa que se você estiver totalmente sem dinheiro, você ainda pode começar seu negócio on-line com o WordPress. Porém você só poderá fazer alterações pelo painel de controle.
 
-<h2 class="section-heading">The Final Frontier</h2>
+Páginas obrigatórios
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+De ter carregado o melhor do seu trabalho, então agora os visitantes podem realmente ver o que você é capaz de fazer. Isso tudo é bom, mas pensar em como eles vão entrar em contato com você, caso eles querem pedir algo de você. Certifique-se de incluir todas as seguintes páginas em seu site.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+Página de contato - Os usuários não serão capazes de entrar em contato com você a menos que você dar-lhes o seu e-mail, número de telefone, ou encorajá-los a enviar e-mail através de um formulário de contato embutido. A página de contato é uma obrigação em cada site, não importa o que determinado site é sobre.
+Termos de Uso - É uma boa prática a colocar para baixo como os visitantes podem usar o seu conteúdo. Por exemplo, se você produz brindes, você deve deixá-los saber como eles podem usá-los. eles podem usar seu material em projectos comerciais ou apenas em uns pessoais? Se os utilizadores podem registar-se para o seu site, que eles saibam os termos. Você pode olhar para os termos de gerador de uso, se você não pode pensar em qualquer dos seus próprios.
+Política de Privacidade - No caso de você deseja que seus usuários para se inscrever, ou lhe dar seu endereço de e-mail para uma subscrição da newsletter, é fundamental ter um páginas de política de privacidade que indicam como você lida com dados sensíveis de seus visitantes. Você pode encontrar um gerador de política de privacidade on-line, também.
+Qual é o próximo?
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+É isso, seu site está agora em uma condição perfeita para começar a usar. Você deve considerar um par de passos importantes para tornar seu site destacam-se da multidão.
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+Search Engine Optimization - a classificação elevada nos motores de busca, você tem que, acima de tudo, manter a produção de conteúdo de qualidade. Você deve certificar-se de que a marcação do seu site é uma possível SEO-friendly. Sempre dar imagens alt e tags de título, etc.
+Social Media - Registre seu site como uma página no Facebook e Google+. Certifique-se de criar uma conta no Twitter e tweet sobre suas mensagens regularmente. Use tendências (hash tags) para encontrar pessoas semelhantes a você no Twitter, conectar-se a grupos no Google+ para se envolver com pessoas que têm os mesmos interesses. A mídia social é um lote inteiro de diversão, também. Você pode fazer amigos, ou até mesmo encontrar colaboradores!
+Publicidade - Como o seu site recebe mais e mais visitantes, você pode colocar alguns anúncios em seu site para alguma renda adicional. Você pode experimentar o Google AdSense, ou tentar amigo com sites similares.
+Newsletter - Como o tráfego fica mais e mais, você pode querer considerar a coleta de e-mails para espalhar-se boletins semanais / mensais a seus usuários inscritos. Esta é uma ótima maneira de informá-los sobre as notícias da empresa, novos posts, e coisas assim.
+proteção contra spam - Existem plugins específicos para os sistemas de gerenciamento de conteúdo que impedem robôs spam seu site com comentários alheios. Usando um serviço de captcha e um filtro de spam será muito bem reduzir as chances de receber spam indesejado no seu blog.
+Idioma - Certifique-se de prova de ler o seu conteúdo antes de torná-los ao vivo. Ter o índice gramaticalmente correta e não misspelling palavras ajudá-lo muito!
+shutterstock_122113516
+Conclusão
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+É um longo processo para obter um site instalado e funcionando, especialmente se você não nasceu com um laptop na mão. No final, no entanto, tudo vai valer a pena. Ter um site que é tudo sobre você é ótima!
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+Tem alguma dica?
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+Se você tem um conselho assassino aos recém-chegados sobre como iniciar um negócio on-line, por que não compartilhá-lo com a gente? Conte-nos como você conseguiu uma carreira em linha bem sucedido você mesmo! Obrigado pela leitura, e desejo-lhe uma boa sorte com a começar o seu negócio online!</p>
