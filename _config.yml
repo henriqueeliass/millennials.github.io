@@ -1,25 +1,21 @@
-# Site settings
-title: Millennial's
-header-img: img/home-bg.jpg
-email: contato@ifundamental.com.br
-copyright_name: Fundamental Inc.
-description: "Informações úteis para todos"
-baseurl: ""
-url: "http://blog.millennial.com.br"
-twitter_username:
-github_username:
-facebook_username: bemillennials
-email_username:  contato@ifundamental.com.br
+# Site Settings
+baseurl: 		""
+title: 			Hashtag for Jekyll
 
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-51117727-20
+name: 			Hashtag <i>for</i> Jekyll
+description: 	A beautifully contemporary and elegant Jekyll theme
+url: 			"http://localhost:4000"
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+paginate: 		3
+paginate_path: 	"blog/page:num"
 
-gems: [jekyll-paginate, jekyll-feed]
+twitter: 		indiqo
+email: 			hello@indiqo.eu
+
+disqus: 		your_disqus_shortname
+analytics: 		UA-XXXXXXX-Y
+
+copyright: 		Copyright 2014 Indiqo.	
+
+# Build Settings
+permalinks: 	pretty

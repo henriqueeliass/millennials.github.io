@@ -1,38 +1,28 @@
 ---
-layout: page
-description: "Informações úteis para todos"
+
+layout:     default
+title:      Why Jekyll rocks
+type:       home
+navigation: true
+
+date:       2014-05-08
+image:      header-1.jpg
+excerpt:    Let's face it, there are literally <i>millions of ways to create and manage a website or blog</i> these days and all of them got dark and bright sides. <b>Jekyll</b> is yet another, albeit incredible way to do so and <b>Hashtag for Jekyll</b> adds a sweet little face to it so your site doesn't turn into <b>Mr. Hyde</b>. <a href="/about.html" title="Continue" class="more">Continue</a>
+gradient:   1
+
 ---
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-            {% include minutes-to-read.html %}
-        <span class="reading-time" title="Tempo estimado de leitura">- {{ minutesText }}</span>
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} , {{ post.date | date: "%B %-d, %Y" }}</p>
+<div class="summary">
+
+  <p>Well, I guess it's quite obvious that I really enjoy working with Jekyll — <b>with good reasons</b> — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system. <a href="/why-jekyll.html" title="Continue" class="more">Continue</a></p>
+
 </div>
 
-{% endfor %}
+<h2>Guides</h2>
+<p>Please follow these guides in order to get a good impression about the themes functionality and how it works.</p>
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+{% for post in paginator.posts %}
+
+  {% include summary.html %}
+  
+{% endfor %}

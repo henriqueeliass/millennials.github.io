@@ -1,18 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
+{% include header.html %}
 
-{% include head.html %}
+{% if page.gradient and page.gradient > 0 and page.gradient < 6 %}
+	{% assign gradient = page.gradient %}
+{% else %}
+	{% assign gradient = 1 %}
+{% endif %}
 
-<body>
+<section class="content">
+  
+	<article>
+    
+		<header class="gradient-{{ gradient }}" data-animation="fadeInDownBig">
 
-    {% include nav.html %}
+			{% include excerpt.html %}
 
-    {{ content }}
+		</header>
 
-    {% include footer.html %}
+		<div class="body" data-animation="fadeInUp">
 
-    {% include ga.html %}
+			{{ content }}
 
-</body>
+		</div>
 
-</html>
+		<footer>
+
+			{% include meta.html %}
+
+			{% include comments.html %}
+
+			{% include pagination.html %}
+
+		</footer>
+
+	</article>
+
+</section>
+
+{% include teaser.html %}
+
+{% include footer.html %}
