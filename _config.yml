@@ -15,7 +15,9 @@ email: 			hello@indiqo.eu
 disqus: 		your_disqus_shortname
 analytics: 		UA-XXXXXXX-Y
 
-copyright: 		Copyright 2014 Indiqo.	
+copyright: 		Copyright 2014 Indiqo.
 
 # Build Settings
 permalinks: 	pretty
+
+gems: [jekyll-paginate]
