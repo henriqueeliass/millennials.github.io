@@ -1,7 +1,7 @@
 ---
 
 layout:			default
-title:  		Getting started
+title:  		Informações iniciais
 type:			post
 navigation: 	false
 
