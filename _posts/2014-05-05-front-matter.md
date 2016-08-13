@@ -9,7 +9,7 @@ date:   		2014-05-05
 excerpt: 		By now you should be already familiar with the concept of front-matter to control content and layout. Aside from basic options, <b>there are a few more</b> I'd like to introduce you to — <i>even though they're just optional</i>.
 categories:		guides
 gradient: 		4
-image: 			header-3.jpg
+image: 			header-1.jpg
 details:		false
 
 author: 		Maximilian Bartel
@@ -45,6 +45,6 @@ Below you'll see a *detailed description of each of these options*, what they do
 - **author:** Feel free to add the name of the posts or pages author.
 - **bio:** A short description or bio can be appended too.
 
-The remaining front-matter should be self-explanatory in my opinion and you're able to *attach various social media profile links* to the authors profile. 
+The remaining front-matter should be self-explanatory in my opinion and you're able to *attach various social media profile links* to the authors profile.
 
 Please keep in mind though that **links usually include colons and these are reserved by YAML**. That said, make sure that you wrap links (and literally anything else which might include colons) into quotes so they don't break it.
