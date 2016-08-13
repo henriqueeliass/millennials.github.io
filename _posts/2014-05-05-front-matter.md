@@ -8,7 +8,7 @@ navigation: 	false
 date:   		2014-05-05
 excerpt: 		By now you should be already familiar with the concept of front-matter to control content and layout. Aside from basic options, <b>there are a few more</b> I'd like to introduce you to — <i>even though they're just optional</i>.
 categories:		guides
-gradient: 		4
+gradient: 		1
 image: 			header-1.jpg
 details:		false
 
