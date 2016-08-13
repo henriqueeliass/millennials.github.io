@@ -2,9 +2,9 @@
 baseurl: 		""
 title: 			Fundamental Inc.
 
-name: 			Hashtag <i>for</i> Jekyll
-description: 	A beautifully contemporary and elegant Jekyll theme
-url: 			"http://localhost:4000"
+name: 				Fundamental Inc.
+description: 	Conteúdo
+url: 			"http://blog.millennial.com.br"
 
 paginate: 		3
 paginate_path: 	"blog/page:num"
