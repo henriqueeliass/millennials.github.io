@@ -318,7 +318,7 @@ body > header {
 
     .content article header .overlay {
         width: 100%;
-        height: 700px;
+        height: 150px;
         opacity: 0.15;
         background-repeat: no-repeat;
         background-position: 50% 0;
@@ -755,7 +755,7 @@ code { padding: 3px 6px; }
 
     .content article .body .media, .content article .body .media.youtube, .content article .body .media.vimeo { margin: 34px 0 }
 
-    .content article header { height: 500px }
+    .content article header { height: 100px }
 
     .content article .body { padding: 34px 0 0 }
 
