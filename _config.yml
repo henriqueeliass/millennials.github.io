@@ -18,6 +18,6 @@ analytics: 		UA-XXXXXXX-Y
 copyright: 		Copyright 2014 Indiqo.
 
 # Build Settings
-permalinks: 	pretty
+
 
 gems: [jekyll-paginate]
