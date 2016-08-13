@@ -19,5 +19,5 @@ copyright: 		Copyright 2014 Indiqo.
 
 # Build Settings
 
-
+permalink: pretty
 gems: [jekyll-paginate]
