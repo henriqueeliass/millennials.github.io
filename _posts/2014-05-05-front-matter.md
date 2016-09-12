@@ -1,12 +1,12 @@
 ---
 
 layout:			default
-title:  		Front-matter matters, literally
+title:  		Taxa de juros e alienação fiduciária
 type:			post
 navigation: 	false
 
 date:   		2014-05-05
-excerpt: 		By now you should be already familiar with the concept of front-matter to control content and layout. Aside from basic options, <b>there are a few more</b> I'd like to introduce you to — <i>even though they're just optional</i>.
+excerpt: 		<b>Taxa de juros - </b> As taxas normalmente aplicadas nos financiamentos imobiliários podem ser pré-fixadas ou pós fixadas.<b> Alienação fiduciária - </b> Usado para garantir o cumprimento de uma obrigação. Ocorre quando um comprador adquire um bem a crédito. 
 categories:		guides
 gradient: 		1
 image: 			header-1.jpg
@@ -24,27 +24,10 @@ dribbble: 		"http://dribbble.com"
 rss: 			"feed://themeforest.net/feeds/users/indiqo"
 
 ---
+## Alienação fiduciária  
 
-## Advanced, optional front-matter
+Usado para garantir o cumprimento de uma obrigação. Ocorre quando um comprador adquire um bem a crédito. Quem cedeu o crédito toma o bem financiado ou outro bem em garantia, sendo que o comprador pode dele usufruir porém fica impedido de vender o bem antes da quitação do crédito. No Brasil, essa modalidade é comum na compra de veículos ou imóveis. No caso de veículo, a alienação fica registrada no documento de posse deste; no de imóvel, é comum que a propriedade definitiva, atestada pela escritura, só seja transmitida após a liquidação da dívida. Em ambos os casos, o comprador fica impedido de negociar o bem antes da quitação da dívida, mas pode usufruir dele. Caso o devedor fique inadimplente por um período de 3 meses o imóvel e todas as melhorias feitas no imóvel fica para quem cede o crédito. Normalmente é possível negociar e fazer acordos porém caso não tenha acordo o bem vai para leilão com intuito de o credor recuperar o valor que cedeu em crédito e o tomador perde tudo que pagou.
 
-You already know how to *create posts and pages* and *what front-matter means*. But did you also know that front-matter is a **seriously powerful way to control contents and appearance** of each page?
+## Taxa de juros
 
-Meet the advanced, optional front-matter you can add to the top of each post or page.
-
-{% include media-image.html file="advanced-front-matter.jpg" title="Advanced front-matter" caption="This is the front-matter of the page you're currently viewing" %}
-
-Below you'll see a *detailed description of each of these options*, what they do and how you can use them in order to control many aspects of the page easily — I'll skip `layout`, `title` and `type` though.
-
-- **navigation:** Can be either `true` or `false` and controls wether the post or page appears in the navigation or not. This just works if `type` is either set to `post` or `page`.
-- **date:** It's a good practice to set the date within each file as well even though it's not required. The order of all posts and pages added to the navigation depends on their date too.
-- **excerpt:** A **quick summary** which shows up on top of each page as well as on the homepage listing.
-- **categories:** Add one or more `categories` for each page or post — they're part of the excerpt and influence the way Jekyll builds the sites hierarchy.
-- **gradient:** Specify a number between 1 and 5 to define the **color of the gradient** applied to the header of the post or page.
-- **image:** Add an image to the `images` folder and add its file name here so it shows up on top of the page. The **perfect size would be 1200 x 700px** but everything should work just fine considering that it will be scaled accordingly anyway.
-- **details:** Can be either `true` or `false` and specifies wether the header image selected for this page will show up in the homepage listing as well.
-- **author:** Feel free to add the name of the posts or pages author.
-- **bio:** A short description or bio can be appended too.
-
-The remaining front-matter should be self-explanatory in my opinion and you're able to *attach various social media profile links* to the authors profile.
-
-Please keep in mind though that **links usually include colons and these are reserved by YAML**. That said, make sure that you wrap links (and literally anything else which might include colons) into quotes so they don't break it.
+As taxas normalmente aplicadas nos financiamentos imobiliários podem ser pré-fixadas ou pós fixadas. As pré-fixadas são definitivas. As pós fixadas tem uma taxa base e outra taxa variável normalmente reajustada pela TR (Taxa Referencial) ou Selic.Normalmente é usada as taxas pós fixadas por inicialmente parecer ser mais baixa e por indicação do consultor imobiliário. Em 2014 a variação anual foi de 11,70% e em 2015 está acumulada em 14,25%. Se você tem um financiamento pós fixado está sendo reajusta pela taxa fixada + taxa variável. Um exemplo para melhor compreensão, caso você financiou um imóvel com taxa pós fixada de 6% + Selic ao ano, seu financiamento foi reajustado ano passado por 6% + 11,70% ao ano, e este ano será reajustado por 6% + 14,25 até o momento. Com isso você saberá a realidade dos financiamentos e o porque do aumento do seu saldo devedor.
