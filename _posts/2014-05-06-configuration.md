@@ -25,36 +25,37 @@ rss: 			"feed://themeforest.net/feeds/users/indiqo"
 
 ---
 
-SUMÁRIO
-Prefácio
-Introdução
-Casuísticas
-Dinheiro
-Educação financeira
-Dívidas
-Positiva
-Negativa
-Desperdício
-Excessos
-Luxo
-Economicidade
-Frugal – Homo sapiens economicus
-Investimentos
-Anticosmoético
-Alguns tipos de investimentos
-Negociações ganha-ganha
-Evolutivos
-Empreendedorismo evolutivo
-Pé de meia
-Estudo formal
-Profissão
-Retribuição
-Moradia
-Antimaternidade
-Mata burros
-Técnologia
-Ferramentas
-Métodos
-Paradigma consciencial
-Bibliografia
-Filmografia
+SUMÁRIO<br>
+<br>
+Prefácio<br>
+Introdução<br>
+Casuísticas<br>
+Dinheiro<br>
+Educação financeira<br>
+Dívidas<br>
+Positiva<br>
+Negativa<br>
+Desperdício<br>
+Excessos<br>
+Luxo<br>
+Economicidade<br>
+Frugal – Homo sapiens economicus<br>
+Investimentos<br>
+Anticosmoético<br>
+Alguns tipos de investimentos<br>
+Negociações ganha-ganha<br>
+Evolutivos<br>
+Empreendedorismo evolutivo<br>
+Pé de meia<br>
+Estudo formal<br>
+Profissão<br>
+Retribuição<br>
+Moradia<br>
+Antimaternidade<br>
+Mata burros<br>
+Técnologia<br>
+Ferramentas<br>
+Métodos<br>
+Paradigma consciencial<br>
+Bibliografia<br>
+Filmografia<br>
