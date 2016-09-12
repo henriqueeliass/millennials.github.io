@@ -6,7 +6,7 @@ type:			post
 navigation: 	false
 
 date:   		2014-05-05
-excerpt: 		<b>Taxa de juros - </b> As taxas normalmente aplicadas nos financiamentos imobiliários podem ser pré-fixadas ou pós fixadas.<b> Alienação fiduciária - </b> Usado para garantir o cumprimento de uma obrigação. Ocorre quando um comprador adquire um bem a crédito. 
+excerpt: 		<b>Taxa de juros - </b> As taxas normalmente aplicadas nos financiamentos imobiliários podem ser pré-fixadas ou pós fixadas.<b> Alienação fiduciária - </b> Usado para garantir o cumprimento de uma obrigação. Ocorre quando um comprador adquire um bem a crédito.
 categories:		guides
 gradient: 		1
 image: 			header-1.jpg
