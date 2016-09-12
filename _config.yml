@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: 		""
-title: 			Fundamental Inc.
+title: 			Inteligência Financeira.
 
 name: 				Fundamental Inc.
 description: 	Conteúdo
@@ -10,7 +10,7 @@ paginate: 		3
 paginate_path: 	"blog/page:num"
 
 twitter: 		indiqo
-email: 			contato@escolaimovel.com.br
+email: 			henriqueeliassilva@gmail.com.br
 
 disqus: 		your_disqus_shortname
 analytics: 		UA-XXXXXXX-Y
