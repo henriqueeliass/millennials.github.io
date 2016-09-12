@@ -33,18 +33,18 @@ Casuísticas<br>
 Dinheiro<br>
 Educação financeira<br>
 Dívidas<br>
-Positiva<br>
-Negativa<br>
+-Positiva<br>
+-Negativa<br>
 Desperdício<br>
-Excessos<br>
-Luxo<br>
+-Excessos<br>
+-Luxo<br>
 Economicidade<br>
-Frugal – Homo sapiens economicus<br>
+-Frugal – Homo sapiens economicus<br>
 Investimentos<br>
-Anticosmoético<br>
-Alguns tipos de investimentos<br>
-Negociações ganha-ganha<br>
-Evolutivos<br>
+-Anticosmoético<br>
+-Alguns tipos de investimentos<br>
+-Negociações ganha-ganha<br>
+-Evolutivos<br>
 Empreendedorismo evolutivo<br>
 Pé de meia<br>
 Estudo formal<br>
@@ -54,8 +54,8 @@ Moradia<br>
 Antimaternidade<br>
 Mata burros<br>
 Técnologia<br>
-Ferramentas<br>
-Métodos<br>
+-Ferramentas<br>
+-Métodos<br>
 Paradigma consciencial<br>
 Bibliografia<br>
 Filmografia<br>
